@@ -1,0 +1,38 @@
+* {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+}
+label {
+  font-size: 24px;
+  margin: 20px;
+}
+button {
+  border: 0px;
+  border-radius: 25px;
+  padding: 1em;
+}
+button:hover {
+  color: brown;
+  background-color: orange;
+}
+form {
+  margin: 30px;
+  display: flex;
+  align-items: center;
+}
+input {
+  margin-right: 50px;
+}
+select {
+  margin-right: 50px;
+}
+
+table {
+  margin-top: 100px;
+  padding: 20px;
+}
+td {
+  text-align: center;
+  font-weight: 300;
+}
